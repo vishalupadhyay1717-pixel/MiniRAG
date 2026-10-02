@@ -1,0 +1,92 @@
+[
+  {
+    "question": "What is the minimum attendance percentage required to sit for exams?",
+    "expected_source": "academic_rules.txt",
+    "expected_page": 1
+  },
+  {
+    "question": "What grading scale does the institute use?",
+    "expected_source": "academic_rules.txt",
+    "expected_page": 1
+  },
+  {
+    "question": "How many credits are needed to graduate?",
+    "expected_source": "academic_rules.txt",
+    "expected_page": 1
+  },
+  {
+    "question": "How many backlog courses can a student carry into their final year?",
+    "expected_source": "academic_rules.txt",
+    "expected_page": 1
+  },
+  {
+    "question": "What happens if a student is repeatedly late to class?",
+    "expected_source": "academic_rules.txt",
+    "expected_page": 1
+  },
+  {
+    "question": "What counts as an academic integrity violation?",
+    "expected_source": "academic_rules.txt",
+    "expected_page": 1
+  },
+  {
+    "question": "How is the final course grade split between continuous assessment and the end-semester exam?",
+    "expected_source": "examination_policy.txt",
+    "expected_page": 1
+  },
+  {
+    "question": "What items are banned inside the examination hall?",
+    "expected_source": "examination_policy.txt",
+    "expected_page": 1
+  },
+  {
+    "question": "How long does a student have to request re-evaluation of an answer script?",
+    "expected_source": "examination_policy.txt",
+    "expected_page": 1
+  },
+  {
+    "question": "How many supplementary attempts is a student allowed for one course?",
+    "expected_source": "examination_policy.txt",
+    "expected_page": 1
+  },
+  {
+    "question": "What happens if a student is caught using unauthorized material during an exam?",
+    "expected_source": "examination_policy.txt",
+    "expected_page": 1
+  },
+  {
+    "question": "Can a student retake a course they already passed to improve their grade?",
+    "expected_source": "examination_policy.txt",
+    "expected_page": 1
+  },
+  {
+    "question": "What CGPA is required to qualify for the Merit Scholarship?",
+    "expected_source": "scholarship_policy.txt",
+    "expected_page": 1
+  },
+  {
+    "question": "How much of the tuition fee does need-based financial aid cover?",
+    "expected_source": "scholarship_policy.txt",
+    "expected_page": 1
+  },
+  {
+    "question": "What CGPA must a student maintain to keep a Sports Scholarship?",
+    "expected_source": "scholarship_policy.txt",
+    "expected_page": 1
+  },
+  {
+    "question": "Can a scholarship be withdrawn for an academic integrity violation?",
+    "expected_source": "scholarship_policy.txt",
+    "expected_page": 1
+  },
+  {
+    "question": "How is a scholarship application submitted?",
+    "expected_source": "scholarship_policy.txt",
+    "expected_page": 1
+  },
+  {
+    "question": "Can a student hold more than one primary scholarship at the same time?",
+    "expected_source": "scholarship_policy.txt",
+    "expected_page": 1
+  }
+]

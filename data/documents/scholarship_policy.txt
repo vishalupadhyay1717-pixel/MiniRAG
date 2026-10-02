@@ -1,0 +1,44 @@
+[SAMPLE / DEMO DATA - Fictional Institute of Technology]
+[This document is fictional and created only to demonstrate MiniRAG.]
+
+SCHOLARSHIP POLICY - FICTIONAL INSTITUTE OF TECHNOLOGY
+
+1. Merit Scholarship
+Students who achieve a Cumulative Grade Point Average (CGPA) of 9.0 or
+above at the end of an academic year are eligible for the Merit
+Scholarship, which waives 50% of tuition fees for the following
+academic year. Eligibility is reassessed annually.
+
+2. Need-Based Financial Aid
+Students whose family income is below the threshold defined by the
+institute's Financial Aid Committee (currently updated each year) may
+apply for need-based financial aid covering up to 75% of tuition fees.
+Applications must be submitted with supporting income documentation
+within the first month of the academic year.
+
+3. Sports Scholarship
+Students who represent the institute at state or national level in a
+recognized sport, and who maintain a minimum CGPA of 6.0, are eligible
+for a Sports Scholarship covering hostel fees for the academic year in
+which the representation occurred.
+
+4. Scholarship Renewal Conditions
+All scholarships are renewed annually and are contingent on maintaining
+both the required academic performance (CGPA) and a minimum attendance
+of 75%, in line with the institute's general academic rules. A
+scholarship will be withdrawn if a student is found responsible for an
+academic integrity violation.
+
+5. Application Process
+Scholarship applications are submitted online through the student
+portal. The Scholarship Committee reviews applications within 4 weeks
+and communicates the decision via the student's registered institute
+email address. Appeals against a rejected application may be filed
+within 2 weeks of the decision.
+
+6. Combining Scholarships
+A student may hold only one primary scholarship (Merit, Need-Based, or
+Sports) at a time. However, a student may additionally apply for
+one-time book grants or conference travel grants, which are not
+considered primary scholarships and can be combined with any of the
+above.

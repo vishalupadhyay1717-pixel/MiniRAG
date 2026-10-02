@@ -1,0 +1,42 @@
+[SAMPLE / DEMO DATA - Fictional Institute of Technology]
+[This document is fictional and created only to demonstrate MiniRAG.]
+
+ACADEMIC RULES - FICTIONAL INSTITUTE OF TECHNOLOGY
+
+1. Attendance Requirement
+Students must maintain a minimum of 75% attendance in each course during
+a semester to be eligible to appear for the end-semester examination.
+Students falling between 65% and 75% attendance may apply for
+condonation through the department office, subject to a valid medical
+or personal reason supported by documentation.
+
+2. Grading System
+The institute follows a 10-point grading scale. Grades range from O
+(Outstanding, 90-100 marks) down to F (Fail, below 40 marks). A
+student's Semester Grade Point Average (SGPA) is calculated as the
+credit-weighted average of grade points across all courses registered
+in that semester.
+
+3. Credit Requirements
+Undergraduate students must complete a minimum of 160 credits over
+eight semesters to be eligible for graduation. At least 20 of these
+credits must come from open elective courses outside the student's
+core department.
+
+4. Re-registration and Backlogs
+A student who fails a core course must re-register for that course the
+next time it is offered. A maximum of two backlog courses may be
+carried forward into the final year; students with more than two
+backlogs will not be permitted to register for final-year core courses.
+
+5. Class Conduct
+Students are expected to attend classes on time. Repeated late entry
+(more than 10 minutes after the scheduled start, three or more times
+in a month) may result in the student being marked absent for that
+session at the instructor's discretion.
+
+6. Academic Integrity
+Any form of plagiarism, unauthorized collaboration during individual
+assessments, or impersonation during examinations is treated as a
+serious academic integrity violation and is referred to the Academic
+Discipline Committee.
